@@ -3,7 +3,7 @@ This repository contains all the materials related to the research article title
 This work was carried out by Elisa Silene Panozzo, Mela Bettega, Antonio Rodà, and Nicolò Merendino.
 
 The repository includes:
-
-Source files of the Graphical User Interface
-Data collected during the research
+- Source files of the Graphical User Interface
+- Data collected during the research
+- 
 Please note that this repository does not represent the full scope of the research work, which can be found in the paper (and its attachments) published in the conference proceedings.
